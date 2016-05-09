@@ -1,5 +1,7 @@
 # ComplexSystems_Boids
 A Murmuration implementation in Houdini
+Houdini FX Version 15.0.416
+
 To Generate the simulation files open Boids_Python.hipnc. 
 - In Houdini open a python terminal
 - Copy paste and run the code in the folder HoudiniProjects\Boids\scripts\Export_sym.py. This generates plain text for position of 
